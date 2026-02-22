@@ -12,3 +12,16 @@ Objectifs Spécifiques:
 
 Objectif général:
 Limiter la propagation des maladies infectieuses au Mali.
+
+Liiste des membres du groupe 3 :
+1. Aïssata Moulekafou 
+2. Aliou DICKO
+3.Awa Koniba DAGNO 
+4.Famory Joshua Sissoko
+5. Mohamed Maïga
+6. hamath diallo
+7.Safiatou Broulaye Samake
+8. Issiaka Douyon 
+9. Abdoulaziz Cissé
+10.Oumar Kanadji
+11.Sidi Mohamed Berthé
