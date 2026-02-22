@@ -1,3 +1,0 @@
-Nom : Awa DAGNO 
-Profil : Développeur 
-Fonctionnalités à dévélopper : Test Notifications 
