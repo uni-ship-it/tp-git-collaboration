@@ -1,7 +1,7 @@
 Nom du projet: Santé Kunafoni
 
 Description:
-Santé Kunafoni est une site web/mobile destinée à prévenir et suivre les maladies infectieuses au Mali.
+Santé Kunafoni est un site web/mobile destinée à prévenir et suivre les maladies infectieuses au Mali.
 
 Objectifs Spécifiques:
 - Signalement des cas
