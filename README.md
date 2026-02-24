@@ -1,7 +1,7 @@
 Nom du projet: Santé Kunafoni
 
 Description:
-Santé Kunafoni est une plateforme web/mobile destinée à prévenir et suivre les maladies infectieuses au Mali.
+Santé Kunafoni est une app mobile destinée à prévenir et suivre les maladies infectieuses au Mali.
 
 Objectifs Spécifiques:
 
@@ -18,12 +18,12 @@ Liiste des membres du groupe 3 :
 
 1. Aïssata Moulekafou
 2. Aliou DICKO
-   3.Awa Koniba DAGNO
-   4.Famory Joshua Sissoko
-3. Mohamed Maïga
-4. Hamath Diallo
-   7.Safiatou Broulaye Samake
-5. Issiaka Douyon
-6. Abdoulaziz Cissé
-   10.Oumar Kanadji
-   11.Sidi Mohamed Berthé
+3.Awa Koniba DAGNO 
+4.Famory Joshua Sissoko
+5. Mohamed Maïga
+6. hamath diallo
+7.Safiatou Broulaye Samake
+8. Issiaka Douyon 
+9. Abdoulaziz Cissé
+10.Oumar Kanadji
+11.Sidi Mohamed Berthé

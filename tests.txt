@@ -3,7 +3,11 @@ Liste des tests … faire avec les personnes assign‚es
 Aliou DICKO       : Test du module de notifications 
 Abdoulaziz Ciss‚  : Test du module de suivi des patients 
 Safiatou Samake   : Test de l'interface utilisateur / dashboard 
+<<<<<<< HEAD
 Oumar Kanadji     : Test API Terminé par Fatou
 ERREUR : Test supprimé par inadvertance 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+Oumar Kanadji     : Test du module media management 
+Modiff Aliou last
+966c675240c4c22d920d37de62362a99d6eb3ce7
